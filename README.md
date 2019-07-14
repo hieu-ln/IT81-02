@@ -7,7 +7,7 @@ Môn CTDL-GT
 2.	DH18IT01	IT81	1851050024	Nguyễn Hoàng	Duyn	7/11/2000	Nam
 3.	DH18IT01	IT81	1851050028	Lê Thị Thùy	Dương 9/10/2000 Nữ
 4.	DH18IT01	IT81	1851050029	Phạm Anh	Đào	23/05/00	Nữ
-5.	DH18IT01	IT81	1851050032	Vũ Tấn	Đạt	29/09/00	Nam
+5.	DH18IT01	IT81	1851050088  Lâm Thị Xuân Mai 	22/01/00 Nữ
 6.	DH15TK01	IT81	1851050035	Lê Dương	Đức	28/04/00 Nam
 
 ## Nhóm sử dụng chung 1 Repository này, lưu các bài với cấu trúc như sau:
