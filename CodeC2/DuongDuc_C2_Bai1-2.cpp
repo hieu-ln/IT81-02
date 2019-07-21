@@ -1,4 +1,4 @@
-//Bai 1 - Chuong 2
+		//Bai 1 - Chuong 2
 #include<iostream>
 using namespace std;
 
